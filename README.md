@@ -1,2 +1,3 @@
 # hello-world
-git 및 github 공부용
+
+To study git and github
