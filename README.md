@@ -1,3 +1,3 @@
 # hello-world
 
-To study git and github
+For studying git and github
