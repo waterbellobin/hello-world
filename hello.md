@@ -43,3 +43,8 @@
     추가적인 병합 필요
 - do not be afraid about the conflicts
     충돌이 나도 겁내지 않기
+
+## avoiding conflicts
+
+- do not be afraid
+    돈비어프레이드
