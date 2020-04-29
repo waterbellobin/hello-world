@@ -3,100 +3,100 @@
 # 수정 필요한 내용
 
 ## Chapter 2
-    - [전체] MicroIDSys BT -> MicroIDSys Game Changer 
-    - [1.2] linear type ??? (rotational motion)
-    - [그림1] 그림 내 장비 사진 교체
-    - [그림4] BT -> Game Changer (이하 GC)
-    - [2.1] BT -> GC, linear type ???
-    - [2.1문단3] Auto Run 최대 384, 96-스팟, 384-스팟 -> 48-스팟
-    - [2.2문단1] BT -> GC
-    - [2.3] BT - GC
-    - [2.4] 960회 -> ???
-    - [2.5] BT -> GC
-    - [2.5] Chart 1, 6, 7 figures
-    - [3] BT -> GC, 가속전압, 크기, 무게... 확인 필요
-    - [3.1] 확인 필요
-    - [3.2] Figure 변경
-    - [4.1] 면적, 설치 공간 figure
-    - [4.2] BT -> GC
-    - [4.2.2] 케이블 명, 연결부 확인 필요, 소프트웨어와 데이터베이스 BT -> GC
-    - [4.3] BT -> GC
-    - [5] BT -> GC
-    - [5.1.1] BT -> GC
-    - [5.1.2] Figure camera, plate 수정 필요
-    - [5.2] BT -> GC
-    - [5.2.1] BT -> GC, 스팟 보정 (Teaching) 수정 필요
-    - [5.2.4.2] 자동분석; Auto Run 과정이 바뀐다면 수정 필요
-    - [5.3.5] 'Main Controller'창 항목 20161226_AMS -> 20200429_AMS (maybe?)
-    - [5.3.6] Camera figure -> GC용 플레이트로 교체
-    - [5.3.7] Plate Panel -> GC용 UI로 교체
-    - [5.3.8.1] Figure -> GC용 UI로 교체
-    - [5.3.8.2.1] 전체 교체 필요
-    - [5.3.8.2.2] GC UI로 수정
-    - [5.3.8.3] Baseline figure 'TopHatNew' -> 'TopHat'
-    - [5.3.8.3] 'Baseline' 항목 figure 수정
-    - [5.3.8.6] Figure -> 2017 (too old?)
-    - [5.4] Simple UI Figure -> GC Figure로 수정
-    - [5.4.1] Figure -> 170529 (too old?), Run Selected figure -> Spot labeling 수정
-    - [5.4.3] Job List figure -> Spot labeling 수정
-    - [5.4.4] Chart figure -> figure GC용 labeling으로 수정
-    - [5.5.1] Chart figure -> figure GC용 labeling으로 수정
-    - [5.5.2] Chart figure -> figure GC용 labeling으로 수정
-    - [5.6] BT -> GC
-    - [5.6.1.2] Figure -> 2017-08-15 (too old?)
-    - [6.2.4] Reports figure -> 17-03-2017 (too old?)
-    - [7.1] Smear Method, Extraction Method figure -> plate, 장비 사진, MicroIDSys BT -> MicroIDSys GC
-    - [7.1] 유효기간 1회용 96 시료 플레이트 -> 1회용 48 시료(?)
-    - [7.1.3] 스미어 처리법 figure -> 원형 플레이트로 수정, 용약 양(uL) 수정
-    - [7.1.4] 용액 양(uL) 확인
-    - [7.1.4] AMS 분석 예시 2. 96 시료 플레이트 -> 48 원형(?)
-    - [7.1.4] AMS 분석 예시 3. 용액 양 확인
-    - [7.1.4] AMS 분석 예시 4. BT -> GC
-    - [7.2] 마지막줄 BT -> GC
-    - [8.2.1] BT -> GC
-    - [8.2.1] 전면 커버 -> 터치 스크린 사용시 수정 필요
-    - [8.2.2] 384 시료 플레이트, 96 시료 플레이트 -> 48 플레이트(?)
-    - [8.2.2] 플레이트 삽입 과정 figure 원형 플레이트로 수정 필요
-    - [8.2.2-1] 96 홀더, figure 등 수정 필요
-    - [8.2.2-2] BT -> GC, LED 등 수정 필요
-    - [8.2.2-3] BT -> GC, 문 여는 방법 수정 필요
-    - [8.2.2-4] 검토 필요
-    - [8.2.2-5] 문 잠그기 없음
-    - [8.2.3-1] Figure 원형 플레이트 labeling으로 수정
-    - [8.2.3-2] Figure, labeling 수정
-    - [8.2.3-3] Figure, labeling 수정
-    - [8.2.3-5] ~ [8.2.3-7] ???
-    - [8.2.4-1] BT -> GC
-    - [8.2.4-4] BT -> GC, figure 170321_AMS (too old?)
-    - [8.2.4-5] Plate figure 원형으로 수정
-    - [8.2.8-1] '네모상자' ??
-    - [8.2.8-3] t20161227 (too old?)
-    - [9] BT -> GC
-    - [9.1] BT -> GC
-    - [9.1.1] BT -> GC, LED등 -> 터치 스크린 사용시 수정 필요
-    - [9.1.3] BT -> GC, LED등 -> 터치 스크린 사용시 수정 필요
-    - [9.1.4] 96시료 플레이트 -> 48시료 (??), 플레이트 figure 수정 필요
-    - [9.1.5] BT -> GC, 노브 왼쪽으로 밀어서 -> 당겨서 (?)
-    - [9.1.6] Figure 변경 필요, 설명 수정
-    - [9.1.7] 노브를 오른쪽으로 밀어 -> ???
-    - [9.2] 스팟 보정 (Teaching) 사용 여부 확인 ???
-    - [9.2.1] 'Plate Model: 6 x 16 N' -> 'GC용 plate labeling', figure 수정 필요
-    - [9.3] BT -> GC
-    - [9.3.1] Method '170233_AMS *' (too old?)
-    - [9.3.3] BT -> GC, figure '170321_AMS' (too old?)
-    - [9.5.1] Figure -> GC plate 로 변경
-    - [9.6.7] Date (too old?)
-    - [10] "전체적인 수정 필요" -> 이전 사진들 이용
+- [전체] MicroIDSys BT -> MicroIDSys Game Changer 
+- [1.2] linear type ??? (rotational motion)
+- [그림1] 그림 내 장비 사진 교체
+- [그림4] BT -> Game Changer (이하 GC)
+- [2.1] BT -> GC, linear type ???
+- [2.1문단3] Auto Run 최대 384, 96-스팟, 384-스팟 -> 48-스팟
+- [2.2문단1] BT -> GC
+- [2.3] BT - GC
+- [2.4] 960회 -> ???
+- [2.5] BT -> GC
+- [2.5] Chart 1, 6, 7 figures
+- [3] BT -> GC, 가속전압, 크기, 무게... 확인 필요
+- [3.1] 확인 필요
+- [3.2] Figure 변경
+- [4.1] 면적, 설치 공간 figure
+- [4.2] BT -> GC
+- [4.2.2] 케이블 명, 연결부 확인 필요, 소프트웨어와 데이터베이스 BT -> GC
+- [4.3] BT -> GC
+- [5] BT -> GC
+- [5.1.1] BT -> GC
+- [5.1.2] Figure camera, plate 수정 필요
+- [5.2] BT -> GC
+- [5.2.1] BT -> GC, 스팟 보정 (Teaching) 수정 필요
+- [5.2.4.2] 자동분석; Auto Run 과정이 바뀐다면 수정 필요
+- [5.3.5] 'Main Controller'창 항목 20161226_AMS -> 20200429_AMS (maybe?)
+- [5.3.6] Camera figure -> GC용 플레이트로 교체
+- [5.3.7] Plate Panel -> GC용 UI로 교체
+- [5.3.8.1] Figure -> GC용 UI로 교체
+- [5.3.8.2.1] 전체 교체 필요
+- [5.3.8.2.2] GC UI로 수정
+- [5.3.8.3] Baseline figure 'TopHatNew' -> 'TopHat'
+- [5.3.8.3] 'Baseline' 항목 figure 수정
+- [5.3.8.6] Figure -> 2017 (too old?)
+- [5.4] Simple UI Figure -> GC Figure로 수정
+- [5.4.1] Figure -> 170529 (too old?), Run Selected figure -> Spot labeling 수정
+- [5.4.3] Job List figure -> Spot labeling 수정
+- [5.4.4] Chart figure -> figure GC용 labeling으로 수정
+- [5.5.1] Chart figure -> figure GC용 labeling으로 수정
+- [5.5.2] Chart figure -> figure GC용 labeling으로 수정
+- [5.6] BT -> GC
+- [5.6.1.2] Figure -> 2017-08-15 (too old?)
+- [6.2.4] Reports figure -> 17-03-2017 (too old?)
+- [7.1] Smear Method, Extraction Method figure -> plate, 장비 사진, MicroIDSys BT -> MicroIDSys GC
+- [7.1] 유효기간 1회용 96 시료 플레이트 -> 1회용 48 시료(?)
+- [7.1.3] 스미어 처리법 figure -> 원형 플레이트로 수정, 용약 양(uL) 수정
+- [7.1.4] 용액 양(uL) 확인
+- [7.1.4] AMS 분석 예시 2. 96 시료 플레이트 -> 48 원형(?)
+- [7.1.4] AMS 분석 예시 3. 용액 양 확인
+- [7.1.4] AMS 분석 예시 4. BT -> GC
+- [7.2] 마지막줄 BT -> GC
+- [8.2.1] BT -> GC
+- [8.2.1] 전면 커버 -> 터치 스크린 사용시 수정 필요
+- [8.2.2] 384 시료 플레이트, 96 시료 플레이트 -> 48 플레이트(?)
+- [8.2.2] 플레이트 삽입 과정 figure 원형 플레이트로 수정 필요
+- [8.2.2-1] 96 홀더, figure 등 수정 필요
+- [8.2.2-2] BT -> GC, LED 등 수정 필요
+- [8.2.2-3] BT -> GC, 문 여는 방법 수정 필요
+- [8.2.2-4] 검토 필요
+- [8.2.2-5] 문 잠그기 없음
+- [8.2.3-1] Figure 원형 플레이트 labeling으로 수정
+- [8.2.3-2] Figure, labeling 수정
+- [8.2.3-3] Figure, labeling 수정
+- [8.2.3-5] ~ [8.2.3-7] ???
+- [8.2.4-1] BT -> GC
+- [8.2.4-4] BT -> GC, figure 170321_AMS (too old?)
+- [8.2.4-5] Plate figure 원형으로 수정
+- [8.2.8-1] '네모상자' ??
+- [8.2.8-3] t20161227 (too old?)
+- [9] BT -> GC
+- [9.1] BT -> GC
+- [9.1.1] BT -> GC, LED등 -> 터치 스크린 사용시 수정 필요
+- [9.1.3] BT -> GC, LED등 -> 터치 스크린 사용시 수정 필요
+- [9.1.4] 96시료 플레이트 -> 48시료 (??), 플레이트 figure 수정 필요
+- [9.1.5] BT -> GC, 노브 왼쪽으로 밀어서 -> 당겨서 (?)
+- [9.1.6] Figure 변경 필요, 설명 수정
+- [9.1.7] 노브를 오른쪽으로 밀어 -> ???
+- [9.2] 스팟 보정 (Teaching) 사용 여부 확인 ???
+- [9.2.1] 'Plate Model: 6 x 16 N' -> 'GC용 plate labeling', figure 수정 필요
+- [9.3] BT -> GC
+- [9.3.1] Method '170233_AMS *' (too old?)
+- [9.3.3] BT -> GC, figure '170321_AMS' (too old?)
+- [9.5.1] Figure -> GC plate 로 변경
+- [9.6.7] Date (too old?)
+- [10] "전체적인 수정 필요" -> 이전 사진들 이용
 
 ## Chapter 3
-    - [1.3.2] 주기 확인 필요
-    - [1.4.1] figure '170320_70valley*' (too old?)
-    - [1.4.1 장비 시작] 외부 케이블 확인
-    - [1.4.2] 케이스 팬 figure -> GC figure로 변경
-    - [1.4.2] 퓨즈 교체 figure -> GC figure로 변경
-    - [1.4.5] 고장 조치 추가 내용???
-    - [2.1] 제품 보증기간 12개월???
-    - [2.3] 품질 보증서 제품명 BT -> GC, 보증기간
+- [1.3.2] 주기 확인 필요
+- [1.4.1] figure '170320_70valley*' (too old?)
+- [1.4.1 장비 시작] 외부 케이블 확인
+- [1.4.2] 케이스 팬 figure -> GC figure로 변경
+- [1.4.2] 퓨즈 교체 figure -> GC figure로 변경
+- [1.4.5] 고장 조치 추가 내용???
+- [2.1] 제품 보증기간 12개월???
+- [2.3] 품질 보증서 제품명 BT -> GC, 보증기간
 
 ## 기술자 점검 요청서
-    - [장비명] MicroIDSys BT -> MicroIDSys GC 
+- [장비명] MicroIDSys BT -> MicroIDSys GC 
