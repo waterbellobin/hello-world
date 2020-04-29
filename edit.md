@@ -1,8 +1,8 @@
-20181130_MicroIDSys BT.UserManual(Kor) Ver 1.0.pdf
+# 20181130_MicroIDSys BT.UserManual(Kor) Ver 1.0.pdf
 
-수정 필요한 내용
+# 수정 필요한 내용
 
-    Chapter 2
+## Chapter 2
     - [전체] MicroIDSys BT -> MicroIDSys Game Changer 
     - [1.2] linear type ??? (rotational motion)
     - [그림1] 그림 내 장비 사진 교체
@@ -88,7 +88,7 @@
     - [9.6.7] Date (too old?)
     - [10] "전체적인 수정 필요" -> 이전 사진들 이용
 
-    Chapter 3
+## Chapter 3
     - [1.3.2] 주기 확인 필요
     - [1.4.1] figure '170320_70valley*' (too old?)
     - [1.4.1 장비 시작] 외부 케이블 확인
@@ -98,5 +98,5 @@
     - [2.1] 제품 보증기간 12개월???
     - [2.3] 품질 보증서 제품명 BT -> GC, 보증기간
 
-    기술자 점검 요청서
+## 기술자 점검 요청서
     - [장비명] MicroIDSys BT -> MicroIDSys GC 
